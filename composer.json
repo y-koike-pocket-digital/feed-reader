@@ -1,6 +1,6 @@
 {
     "name": "pocket-digital/feed-reader",
-    "description": "A simple RSS feed reader for Laravel 5",
+    "description": "A simple RSS feed reader for Laravel 9",
     "license": "MIT",
     "authors": [
         {
